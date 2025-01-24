@@ -4,4 +4,4 @@
 -More features and bug fixes for quality.
 -Skib
 --Url
-https://www.icloud.com/shortcuts/58cadbcc3daa453cbafbf0a203ffd21a
+https://www.icloud.com/shortcuts/02cc42859b6e4cc9a3ab0d8caf7b18d9
